@@ -1,0 +1,10 @@
+C:\Users\käyttäjä\source\repos\RistiNolla\bin\Debug\RistiNolla.exe.config
+C:\Users\käyttäjä\source\repos\RistiNolla\bin\Debug\RistiNolla.exe
+C:\Users\käyttäjä\source\repos\RistiNolla\bin\Debug\RistiNolla.pdb
+C:\Users\käyttäjä\source\repos\RistiNolla\obj\Debug\RistiNolla.csprojAssemblyReference.cache
+C:\Users\käyttäjä\source\repos\RistiNolla\obj\Debug\RistiNolla.Form1.resources
+C:\Users\käyttäjä\source\repos\RistiNolla\obj\Debug\RistiNolla.Properties.Resources.resources
+C:\Users\käyttäjä\source\repos\RistiNolla\obj\Debug\RistiNolla.csproj.GenerateResource.cache
+C:\Users\käyttäjä\source\repos\RistiNolla\obj\Debug\RistiNolla.csproj.CoreCompileInputs.cache
+C:\Users\käyttäjä\source\repos\RistiNolla\obj\Debug\RistiNolla.exe
+C:\Users\käyttäjä\source\repos\RistiNolla\obj\Debug\RistiNolla.pdb
